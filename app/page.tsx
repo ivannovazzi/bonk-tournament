@@ -37,6 +37,10 @@ export default function Home() {
         The tournament will be held right before the release of the new bonk.io update!
       </h2>
 
+      <h2 className="mb-0 text-xl font-semibold m-10 bg-gradient-to-r from-blue-500 to to-teal-500 bg-clip-text text-transparent">
+        An amazing prize pool of $30,000 will be distributed among the top 10 players!
+      </h2>
+
       <h2 className="mb-1 text-3xl font-semibold m-10 bg-gradient-to-r from-green-500 to to-cyan-500 bg-clip-text text-transparent">
         Invitations are now open! Get noticed by the bonk.io community!
       </h2>
